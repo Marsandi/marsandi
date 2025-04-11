@@ -8,5 +8,5 @@ When I'm not knee-deep in code, you'll probably find me exploring new tech stack
 Oh, and most of my repositories are private — so if you're curious about what I'm working on or want to collaborate, just reach out!
 
 🌌 Also, check out my modern React version of NASA's Astronomy Picture of the Day:
-👉 [nasa-apod-webapp.netlify.app](nasa-apod-webapp.netlify.app)
-It puts a sleek, modern spin on the classic: [apod.nasa.gov/apod/astropix.html](apod.nasa.gov/apod/astropix.html)
+👉 [https://nasa-apod-webapp.netlify.app](https://nasa-apod-webapp.netlify.app)
+It puts a sleek, modern spin on the classic: [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html)
